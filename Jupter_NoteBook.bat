@@ -1,0 +1,1 @@
+cmd.exe /K "Jupyter Notebook"
